@@ -20,11 +20,13 @@ Used numerical surface integration:
 ∥
 ∂
 𝑟
+/
 ∂
 𝑢
 ×
 ∂
 𝑟
+/
 ∂
 𝑣
 ∥
